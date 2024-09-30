@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaxesApp</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="tax_result">Tax: </string>
+    <string name="calculate">Calculate</string>
+    <string name="tax">Tax:</string>
+    <string name="has_a_pool">Has a pool</string>
+    <string name="enter_number_of_rooms">Enter number of rooms</string>
+    <string name="enter_surface">Enter surface</string>
+</resources>
